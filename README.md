@@ -1,3 +1,7 @@
+# **新芽**
+
+> 原文件是pytorch，jittor迁移在ATAS-jittor文件夹里
+
 # Fast Adversarial Training with Adaptive Step Size
 
 This repository contains the code for reproducing ATAS, of our paper: [Fast Adversarial Training with Adaptive Step Size](https://arxiv.org/abs/2206.02417)
