@@ -1,6 +1,6 @@
-# **新芽**
+# **ATAS-jittor**
 
-> 原文件是pytorch，jittor迁移在ATAS-jittor文件夹里
+> 注明：这是NKU新芽计划，原文件（除ATAS-jittor文件夹）是pytorch框架实现，ATAS-jittor文件夹里包含的是jittor框架迁移复现的代码，下面的内容都取自于原作者的README，仅供参考。
 
 # Fast Adversarial Training with Adaptive Step Size
 
